@@ -4,12 +4,12 @@
 - In the terminal enter
 
 ```
-git clone https://github.com/CHT2520-web-prog/intro-to-tailwind
+git clone https://github.com/CHT2520-web-prog/tailwind
 ```
 
 This will copy the contents of this repository into your codespace.
 
-- In terminal, navigate to the _intro-to-tailwind_ folder
+- In terminal, navigate to the _tailwind_ folder
 
 ```
 cd intro-to-tailwind
